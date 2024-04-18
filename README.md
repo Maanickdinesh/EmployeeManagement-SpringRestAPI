@@ -21,3 +21,20 @@ The project allows basic CRUD (Create, Read, Update, Delete) operations on emplo
 
 For detailed usage and examples, refer to the source code and Javadoc comments.
 
+
+employee-management-system
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── employee
+│   │   │           ├── controller
+│   │   │           ├── entity
+│   │   │           ├── exception
+│   │   │           ├── repository
+│   │   │           └── service
+│   └── resources
+│       └── application.properties
+└── pom.xml
+
+
